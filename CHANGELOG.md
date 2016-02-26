@@ -1,3 +1,13 @@
+<a name="0.14.10"></a>
+## [0.14.10](https://github.com/angular-ui/ui-select/compare/v0.14.10...v0.14.10) (2016-02-26)
+
+
+### Bug Fixes
+
+* **uiSelectController:** check that ctrl.$animate.on exists ([15a9bfe](https://github.com/angular-ui/ui-select/commit/15a9bfe))
+
+
+
 <a name="0.14.9"></a>
 ## [0.14.9](https://github.com/angular-ui/ui-select/compare/v0.14.9...v0.14.9) (2016-02-22)
 
